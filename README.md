@@ -11,7 +11,7 @@ Raum Network Opted for Polygon as its inaugural project to launch on the Platfor
 
 3. Ease of Integration - All the Services provided by Raum Network can easily be integrated with Web 2.0 as well as Web 3.0 providing Users with Control over their data, Better connectivity, Ubiquity and many other features bundled with Web 3.0
 
-4 .Role Management and Control - Raum Network will be Providing Role Based Access Control (RBAC) where the Main Administrator Can Provide one or multiple Access Roles as per the Requirement as well as provide and manage Different Data Access Point for the Sub Users for Easy Access to The Shared Data.
+4. Role Management and Control - Raum Network will be Providing Role Based Access Control (RBAC) where the Main Administrator Can Provide one or multiple Access Roles as per the Requirement as well as provide and manage Different Data Access Point for the Sub Users for Easy Access to The Shared Data.
 
 5. Scalable Infrastructure - Raum Network will be Built Upon an Scalable Infrastructure model so that it will always have the required Data Nodes as the Users Availability as well as the Data Nodes will be Dynamic in Nature i.e. The Size of the Data Node can be Increased or Decreased as per the User Requirement.
 
